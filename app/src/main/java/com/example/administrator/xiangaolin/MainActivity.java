@@ -16,5 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private void initview() {
         String name="huhu";
         int a=1;
+
+        String sex="男";
+        int b=2;
     }
 }
